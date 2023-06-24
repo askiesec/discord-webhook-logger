@@ -17,7 +17,7 @@ client.remove_command("help")
 Load values from config.json
 Dont forget to set this
 """
-with open("config/config.json") as f:
+with open("../config/config.json") as f:
      config = json.load(f)
      token = config["token"]
      channelID = config["channelID"] # Int value
