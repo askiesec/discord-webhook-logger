@@ -1,8 +1,14 @@
-# ratPY - Discord SPY
+# ratPY - Discord Message Logger
 
 | ratPY | 
 | ------------- | 
-| ![Alt text](https://media.discordapp.net/attachments/1111073482927771700/1122299275913728120/image.png?width=780&height=408) |
+| ![Alt text](https://media.discordapp.net/attachments/1129249596149866498/1129525299437129818/2023-07-14_18-29.png?width=668&height=348) |
+
+# Show Case Embed
+<p align=center> 
+  <img src="https://media.discordapp.net/attachments/1129249596149866498/1129249645315489932/ratpy2.png?width=331&height=169"
+  </img>
+</p>
 
 ## Requirements before setup:
 1. Python 3.11 installed
@@ -15,17 +21,16 @@
 4. ![Alt text](https://media.discordapp.net/attachments/1111073482927771700/1122299276148613140/image-1.png?width=418&height=468)
 5. On messages search for authorization copy and save your account token(**DON'T SHARE YOUR TOKEN WITH ANYONE**)
 6. Create your [Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
-7. Copy [channel id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) from a channel you gonna spy
-8. Run the ```run.bat``` file and wait for all the packages to be installed.
+7. Copy [channel id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+8. Open cmd on project folder and install requirements ```pip install -r requirements``` (Recommended using a venv setup)
 9. Navigate to the config folder, right click on the config.json file.
-![Alt text](https://media.discordapp.net/attachments/1111073482927771700/1122299276396089414/image-2.png?width=806&height=407)
 10. Fill all fields
 ``` json
 "token": "TOKEN ACCOUNT",
 "hook": "WEBHOOK LINK",
 "channelID": CHANNEL ID WIHOUT QUOTES
 ```
-10. Save and run ```ratpy``` on src folder
+10. Go to src folder and run ```main.py```
 
 # Disclaimer
 This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
