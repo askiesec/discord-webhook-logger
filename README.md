@@ -1,14 +1,9 @@
-# ratPY - Discord Message Logger
+# Discord Message Logger
 
-| ratPY | 
-| ------------- | 
-| ![Alt text](https://media.discordapp.net/attachments/1129249596149866498/1129525299437129818/2023-07-14_18-29.png?width=668&height=348) |
-
-# Show Case Embed
-<p align=center> 
-  <img src="https://media.discordapp.net/attachments/1129249596149866498/1129249645315489932/ratpy2.png?width=331&height=169"
-  </img>
+<p align=center>
+  <img src=https://github.com/askiesec/ratpy/assets/100731528/c56cf879-b594-4ed5-a563-cab6e77b9fbe />
 </p>
+
 
 ## Requirements before setup:
 1. Python 3.11 installed
