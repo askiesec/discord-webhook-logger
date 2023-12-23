@@ -21,7 +21,7 @@ with open("config/config.json") as f:
      
 @bot.event
 async def on_ready():
-    os.system("title Weehook Spy" if os.name=="nt" else "TERM_TITLE='Webhook Spy'")
+    os.system("title Weebhook Spy" if os.name=="nt" else "TERM_TITLE='Webhook Spy'")
     os.system("cls" if os.name=="nt" else "clear")
     banner = (f"""
     
