@@ -1,10 +1,5 @@
 # Discord Message Logger
 
-<p align=center>
-  <img src=https://github.com/askiesec/ratpy/assets/100731528/c56cf879-b594-4ed5-a563-cab6e77b9fbe />
-</p>
-
-
 ## Requirements before setup:
 1. Python 3.11 installed
 2. Any text editor(VS Code recommended)
